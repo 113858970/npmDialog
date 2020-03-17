@@ -2,7 +2,7 @@
   "name": "ad-dialog",
   "version": "1.0.0",
   "description": "弹窗组件，自己的第一个npm包",
-  "main": "dist/pdkModal.min.js",
+  "main": "dist/npmDalog.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --hot --inline",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/113858970/npmdDalog.git"
+    "url": "git+https://github.com/113858970/npmDalog.git"
   },
   "author": "adLin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/113858970/npmdDalog/issues"
+    "url": "https://github.com/113858970/npmDalog/issues"
   },
-  "homepage": "https://github.com/113858970/npmdDalog#readme",
+  "homepage": "https://github.com/113858970/npmDalog#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
