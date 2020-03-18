@@ -1,6 +1,6 @@
 {
   "name": "ad-dialog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "弹窗组件，自己的第一个npm包",
   "main": "dist/npmDialog.min.js",
   "scripts": {
